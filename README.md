@@ -2,7 +2,6 @@
 
 ## Task: Weather Widget Builder
 
-
 ### Requirements
 - npm 5.6.0
 - node 8.11.3
